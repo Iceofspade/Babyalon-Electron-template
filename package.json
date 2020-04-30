@@ -1,0 +1,14 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/scr/main.js",
+  "scripts": {
+"start": "electron ./scr/main.js"
+  },
+  "author": "Spade",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.2.4"
+  }
+}
