@@ -1,0 +1,2238 @@
+Exporter version: 6.4.4, Blender version: 2.90.0
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Dell\Desktop\projects\Babyalon games\2048 3D\assets\imports\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  metarig, id:  0
+		processing begun of bone:  spine.004, index:  0
+		processing begun of bone:  spine.003, index:  1
+		processing begun of bone:  spine.002, index:  2
+		processing begun of bone:  spine.001, index:  3
+		processing begun of bone:  spine, index:  4
+		processing begun of bone:  spine.005, index:  5
+		processing begun of bone:  spine.006, index:  6
+		processing begun of bone:  spine.007, index:  7
+		processing begun of bone:  spine.008, index:  8
+		processing begun of bone:  spine.009, index:  9
+		processing begun of bone:  spine.010, index:  10
+		processing begun of bone:  spine.011, index:  11
+		processing begun of bone:  shoulder.L, index:  12
+		processing begun of bone:  front_thigh.L, index:  13
+		processing begun of bone:  front_shin.L, index:  14
+		processing begun of bone:  front_foot.L, index:  15
+		processing begun of bone:  front_toe.L, index:  16
+		processing begun of bone:  f_palm.02.L, index:  17
+		processing begun of bone:  shoulder.R, index:  18
+		processing begun of bone:  front_thigh.R, index:  19
+		processing begun of bone:  front_shin.R, index:  20
+		processing begun of bone:  front_foot.R, index:  21
+		processing begun of bone:  front_toe.R, index:  22
+		processing begun of bone:  pelvis.L, index:  23
+		processing begun of bone:  pelvis.R, index:  24
+		processing begun of bone:  thigh.L, index:  25
+		processing begun of bone:  shin.L, index:  26
+		processing begun of bone:  foot.L, index:  27
+		processing begun of bone:  toe.L, index:  28
+		processing begun of bone:  thigh.R, index:  29
+		processing begun of bone:  shin.R, index:  30
+		processing begun of bone:  foot.R, index:  31
+		processing begun of bone:  toe.R, index:  32
+		processing begun of bone:  lower jaw, index:  33
+		processing begun of bone:  upper jaw, index:  34
+		processing action Attack:  in[0 - 20], out[0 - 20]
+		processing action Idle:  in[0 - 20], out[30 - 50]
+	processing begun of mesh:  wolf
+		processing begun of material:  main fur
+		processing begun of material:  flesh
+		processing begun of material:  secondary fur
+		processing begun of material:  claw and teeth
+		processing begun of multimaterial:  blond_wolf.Multimaterial#0
+		num positions      :  6345
+		num normals        :  6345
+		num tangents       :  0
+		num uvs            :  12690
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2458
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 21 vertices, extras ignored
+			Total Influencers:  16107
+			Avg # of influencers per vertex:  2.5385
+			Highest # of influencers observed:  10, num vertices with this:  21
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  50760
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  WGTS_rig
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGTS_rig, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_root
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_root, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_spine_fk.004
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_spine_fk.004, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_spine_fk.005
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_spine_fk.005, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_spine_fk.006
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_spine_fk.006, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_spine_fk.007
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_spine_fk.007, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_spine_fk.008
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_spine_fk.008, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_spine.004
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_spine.004, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_spine.005
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_spine.005, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_spine.006
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_spine.006, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_spine.007
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_spine.007, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_spine.008
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_spine.008, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_spine.009
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_spine.009, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_torso
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_torso, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_hips
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_hips, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_chest
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_chest, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_spine.003
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_spine.003, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_spine.002
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_spine.002, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_spine.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_spine.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_spine
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_spine, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_spine.003
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_spine.003, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_spine.002
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_spine.002, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_spine.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_spine.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_spine
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_spine, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_spine_master.003
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_spine_master.003, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_breast.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_breast.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_breast.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_breast.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_shoulder.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_shoulder.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_thigh_parent.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_thigh_parent.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_thigh_fk.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_thigh_fk.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_shin_fk.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_shin_fk.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_foot_fk.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_foot_fk.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_toe.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_toe.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_thigh_ik.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_thigh_ik.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_thigh_ik_target.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_thigh_ik_target.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_foot_ik.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_foot_ik.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_VIS_front_thigh_ik_pole.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_VIS_front_thigh_ik_pole.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_thigh_tweak.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_thigh_tweak.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_thigh_tweak.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_thigh_tweak.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_shin_tweak.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_shin_tweak.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_shin_tweak.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_shin_tweak.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_foot_tweak.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_foot_tweak.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_foot_tweak.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_foot_tweak.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_toe_tweak.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_toe_tweak.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_foot_heel_ik.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_foot_heel_ik.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_palm.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_palm.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_index.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_index.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_index.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_index.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_index.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_index.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_index.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_index.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_index.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_index.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_index.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_index.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_index.03.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_index.03.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_middle.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_middle.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_middle.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_middle.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_middle.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_middle.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_middle.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_middle.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_middle.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_middle.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_middle.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_middle.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_middle.03.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_middle.03.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_ring.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_ring.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_ring.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_ring.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_ring.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_ring.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_ring.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_ring.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_ring.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_ring.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_ring.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_ring.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_ring.03.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_ring.03.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_pinky.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_pinky.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_pinky.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_pinky.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_pinky.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_pinky.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_pinky.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_pinky.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_pinky.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_pinky.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_pinky.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_pinky.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_pinky.03.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_pinky.03.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_shoulder.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_shoulder.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_thigh_parent.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_thigh_parent.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_thigh_fk.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_thigh_fk.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_shin_fk.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_shin_fk.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_foot_fk.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_foot_fk.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_toe.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_toe.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_thigh_ik.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_thigh_ik.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_thigh_ik_target.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_thigh_ik_target.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_foot_ik.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_foot_ik.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_VIS_front_thigh_ik_pole.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_VIS_front_thigh_ik_pole.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_thigh_tweak.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_thigh_tweak.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_thigh_tweak.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_thigh_tweak.R.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_shin_tweak.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_shin_tweak.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_shin_tweak.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_shin_tweak.R.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_foot_tweak.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_foot_tweak.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_foot_tweak.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_foot_tweak.R.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_toe_tweak.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_toe_tweak.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_front_foot_heel_ik.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_front_foot_heel_ik.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_palm.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_palm.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_index.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_index.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_index.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_index.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_index.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_index.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_index.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_index.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_index.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_index.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_index.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_index.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_index.03.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_index.03.R.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_middle.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_middle.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_middle.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_middle.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_middle.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_middle.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_middle.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_middle.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_middle.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_middle.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_middle.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_middle.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_middle.03.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_middle.03.R.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_ring.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_ring.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_ring.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_ring.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_ring.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_ring.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_ring.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_ring.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_ring.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_ring.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_ring.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_ring.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_ring.03.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_ring.03.R.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_pinky.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_pinky.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_pinky.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_pinky.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_f_pinky.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_f_pinky.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_pinky.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_pinky.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_pinky.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_pinky.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_pinky.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_pinky.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_f_pinky.03.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_f_pinky.03.R.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_neck
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_neck, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_head
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_head, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_spine.010
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_spine.010, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_thigh_parent.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_thigh_parent.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_thigh_fk.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_thigh_fk.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_shin_fk.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_shin_fk.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_foot_fk.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_foot_fk.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_toe.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_toe.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_thigh_ik.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_thigh_ik.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_thigh_ik_target.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_thigh_ik_target.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_foot_ik.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_foot_ik.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_VIS_thigh_ik_pole.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_VIS_thigh_ik_pole.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_thigh_tweak.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_thigh_tweak.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_thigh_tweak.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_thigh_tweak.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_shin_tweak.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_shin_tweak.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_shin_tweak.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_shin_tweak.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_foot_tweak.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_foot_tweak.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_foot_tweak.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_foot_tweak.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_toe_tweak.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_toe_tweak.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_foot_heel_ik.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_foot_heel_ik.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_palm.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_palm.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_index.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_index.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_index.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_index.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_index.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_index.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_index.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_index.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_index.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_index.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_index.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_index.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_index.03.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_index.03.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_middle.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_middle.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_middle.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_middle.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_middle.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_middle.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_middle.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_middle.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_middle.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_middle.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_middle.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_middle.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_middle.03.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_middle.03.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_ring.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_ring.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_ring.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_ring.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_ring.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_ring.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_ring.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_ring.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_ring.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_ring.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_ring.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_ring.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_ring.03.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_ring.03.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_pinky.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_pinky.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_pinky.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_pinky.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_pinky.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_pinky.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_pinky.01.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_pinky.01.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_pinky.02.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_pinky.02.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_pinky.03.L
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_pinky.03.L, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_pinky.03.L.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_pinky.03.L.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_thigh_parent.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_thigh_parent.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_thigh_fk.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_thigh_fk.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_shin_fk.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_shin_fk.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_foot_fk.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_foot_fk.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_toe.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_toe.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_thigh_ik.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_thigh_ik.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_thigh_ik_target.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_thigh_ik_target.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_foot_ik.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_foot_ik.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_VIS_thigh_ik_pole.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_VIS_thigh_ik_pole.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_thigh_tweak.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_thigh_tweak.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_thigh_tweak.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_thigh_tweak.R.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_shin_tweak.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_shin_tweak.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_shin_tweak.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_shin_tweak.R.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_foot_tweak.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_foot_tweak.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_foot_tweak.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_foot_tweak.R.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_toe_tweak.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_toe_tweak.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_foot_heel_ik.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_foot_heel_ik.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_palm.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_palm.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_index.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_index.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_index.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_index.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_index.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_index.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_index.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_index.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_index.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_index.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_index.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_index.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_index.03.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_index.03.R.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_middle.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_middle.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_middle.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_middle.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_middle.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_middle.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_middle.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_middle.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_middle.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_middle.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_middle.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_middle.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_middle.03.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_middle.03.R.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_ring.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_ring.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_ring.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_ring.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_ring.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_ring.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_ring.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_ring.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_ring.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_ring.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_ring.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_ring.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_ring.03.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_ring.03.R.001, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_pinky.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_pinky.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_pinky.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_pinky.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_r_pinky.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_r_pinky.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_pinky.01.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_pinky.01.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_pinky.02.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_pinky.02.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_pinky.03.R
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_pinky.03.R, has 0 vertices; ignored
+	processing begun of mesh:  WGT-rig_tweak_r_pinky.03.R.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, WGT-rig_tweak_r_pinky.03.R.001, has 0 vertices; ignored
+========= Writing of JSON file started =========
+	writing mesh:  wolf
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 5.1286 secs

@@ -12,7 +12,7 @@ let createWindow = () => {
     webPreferences: {
     nodeIntegration: true
     },
-    icon:"img/dice.png"
+    icon:"assets/img/dice.png"
   });
 
   // and load the index.html of the app.

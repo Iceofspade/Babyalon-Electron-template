@@ -1,0 +1,9 @@
+{
+"_name":"Saber Wolf",
+"_health":{"max":100,"current":100},
+"_damage":{"max":20,"min":1},
+"_defence":5,
+"_blockChance":10,
+"_actionTimer":10,
+"_path":"Black wolf.babylon"
+}

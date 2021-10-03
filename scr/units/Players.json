@@ -1,0 +1,9 @@
+{
+"_name":"Kinght",
+"_health":{"max":100,"current":100},
+"_damage":{"max":1,"min":1},
+"_defence":5,
+"_blockChance":10,
+"_actionTimer":5,
+"_path":"blond wolf.babylon"
+}
